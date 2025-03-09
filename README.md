@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi I'm Sandrine 👋
 
-<!--
-**SandrineLJ/SandrineLJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pursuing a full-stack JavaScript Web Development training, passionate about creating  
+innovative solutions and continuous learning in the field of web development.
 
-Here are some ideas to get you started:
+### Skills
+- **Programming Languages** : JavaScript, HTML, CSS
+- **Frameworks** : Node.js, React.js
+- **Databases** : PostgreSQL
+- **Tools** : Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="my stats" src="https://github-readme-stats-sandrineljs-projects.vercel.app/api?username=SandrineLJ&include_all_commits=true&show_icons=true&theme=jolly"/>
+
+
