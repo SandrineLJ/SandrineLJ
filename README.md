@@ -4,7 +4,7 @@ Pursuing a full-stack JavaScript Web Development training, passionate about crea
 innovative solutions and continuous learning in the field of web development.
 
 ### Skills
-- **Programming Languages** : JavaScript, HTML, CSS
+- **Programming Languages** : JavaScript, TypeScript, HTML, CSS
 - **Frameworks** : Node.js, React.js
 - **Databases** : PostgreSQL
 - **Tools** : Git, GitHub
